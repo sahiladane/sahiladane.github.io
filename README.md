@@ -1,7 +1,7 @@
-this repository is supposed to contain the code for my website
+This website/repository contains the code for hosting my website. This is still under development. 
 
-keep coming back to see the progress for this site xD. hopefully i find the time to create to good site by the end of 2021. 
+[Summar Project report - 2018](Summer_Project_2018_Report.pdf)
 
-[slp_report](EP322_160260006.pdf)
+[Weak Gravitational Lensing Project report - 2018](weak_lensing_project_report_2018.pdf)
 
-testing
+[Supervised Learning Project report - 2018](SLP_report_2018.pdf)
